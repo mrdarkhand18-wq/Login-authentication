@@ -98,9 +98,12 @@ Account verification via email
 
 👨‍💻 Author
 
-Name: Dark Hand
+Name: prasanth
 Email: darkhand18@gmail.com
+
 GitHub: https://github.com/mrdarkhand18-wq
+
 Live Demo: https://login-authenticationsystem.netlify.app/
+
 📜 License
 MIT License
